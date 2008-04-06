@@ -1,4 +1,4 @@
-#summary The "shirtsleeve" utility space pod is probably common to all space efforts.
+#summary Proposed first design/simulation: utility space pod
 
 = Introduction =
 
