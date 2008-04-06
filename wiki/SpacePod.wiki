@@ -2,7 +2,11 @@
 
 = Introduction =
 
-The "shirtsleeve" utility space pod is probably common to all space efforts.
+The "shirtsleeve" utility space pod is probably common to all space efforts. Any project that we attempt in space will require extended periods of construction or repair in a Zero-G environment.
+
+Spacesuits, while advantageous in tight environments, are inadequate to jobs lasting more than a few hours. This is because they are inadequate protection from micrometeorites and other spaceborne debris, and the maneuverability requirements of a suit limit the oxygen supply size that can be attached. 
+
+The space pod allows for a larger and more rigid protective shell, room for greater air supply, as well as room for a more numerous and varied assortment of tools. 
 
 Lunch in Pod Bay Three:
 
