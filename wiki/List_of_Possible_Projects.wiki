@@ -1,4 +1,4 @@
-# A list of possible projects to undertake
+#summary A list of possible projects to undertake
 
 = Introduction =
 
