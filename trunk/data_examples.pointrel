@@ -1,0 +1,607 @@
+Signature: Pointrel20071003.0.2 pointrel-repository://3b417466-662c-485a-b2ba-0098dce9556a
++2007-11-02T14:04:02.445Z|0|pdf root ~~10 ~~0
+~~empty test~~
++2007-11-02T14:08:25.190Z|0|pdf root ~~10 ~~15
+~~empty test~~
+~~Somethign added~~
++2007-11-02T14:08:29.750Z|0|pdf root ~~10 ~~0
+~~empty test~~
++2007-11-02T14:08:54.934Z|0|pdf root ~~10 ~~11
+~~empty test~~
+~~added again~~
++2007-11-02T14:08:59.238Z|0|pdf root ~~10 ~~0
+~~empty test~~
++2007-10-27T18:41:04.368Z|0|anonymous root mapping ~~554
+~~A mapping object maps immutable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary. A dictionary's keys are almost arbitrary values. Only values containing lists, dictionaries or other mutable types (that are compared by value rather than by object identity) may not be used as keys. Numeric types used for keys obey the normal rules for numeric comparison: if two numbers compare equal (such as 1 and 1.0) then they can be used interchangeably to index the same dictionary entry.~~
++2007-10-27T18:41:16.949Z|0|anonymous root mapping ~~607
+~~A mapping object maps immutable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary. A dictionary's keys are almost arbitrary values. Only values containing lists, dictionaries or other mutable types (that are compared by value rather than by object identity) may not be used as keys. Numeric types used for keys obey the normal rules for numeric comparison: if two numbers compare equal (such as 1 and 1.0) then they can be used interchangeably to index the same dictionary entry. (From: http://docs.python.org/lib/typesmapping.html)~~
++2007-10-27T18:43:18.022Z|0|anonymous root mapping ~~636
+~~3.8 Mapping Types -- dict
+
+A mapping object maps immutable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary. A dictionary's keys are almost arbitrary values. Only values containing lists, dictionaries or other mutable types (that are compared by value rather than by object identity) may not be used as keys. Numeric types used for keys obey the normal rules for numeric comparison: if two numbers compare equal (such as 1 and 1.0) then they can be used interchangeably to index the same dictionary entry. 
+
+(From: http://docs.python.org/lib/typesmapping.html)~~
++2007-10-27T19:19:23.010Z|0|pdf root mapping ~~634
+~~3.8 Mapping Types -- dict
+
+A mapping object maps immutable values to arbitrary objects. Mappings are mutable objects. There is currently only one standard mapping type, the dictionary. A dictionary's keys are almost arbitrary values. Only values containing lists, dictionaries or other mutable types (that are compared by value rather than by object identity) may not be used as keys. Numeric types used for keys obey the normal rules for numeric comparison: if two numbers compare equal (such as 1 and 1.0) then they can be used interchangeably to index the same dictionary entry. 
+
+From: http://docs.python.org/lib/typesmapping.html~~
++2007-10-27T18:13:33.132Z|0|anonymous root more zad
++2007-10-27T18:13:40.828Z|0|anonymous root more zad2
++2007-11-12T01:50:50.877Z|0|pdf root more zad3
++2007-11-12T02:20:09.191Z|0|anonymous root more zad4
++2007-11-12T02:22:48.896Z|0|pdf root more zad4
++2007-11-12T11:20:09.228Z|0|pdf root more zad5
++2007-11-12T11:39:49.555Z|0|pdf root more zad7
++2007-11-23T22:32:29.613Z|0|pdf root more zad8
++2007-11-23T22:33:07.509Z|0|pdf root more zad8 mime:text/plain
++2007-11-11T23:55:01.832Z|0|pdf root ~~15 uuid://752c12ff-1125-4839-bb5e-60d67f092e4b
+~~pointrel design~~
++2007-10-27T19:35:39.993Z|0|pdf root ~~15 877a6196-298a-4b90-a6a8-9b2591953a82
+~~some other uuid~~
++2007-10-27T19:35:51.886Z|0|pdf root ~~15 6d03e022-f725-471f-9d7d-82c5b950b1d1
+~~some other uuid~~
++2007-10-27T19:40:40.729Z|0|pdf root ~~16 4efe6cd3-2afe-4a7c-9c26-35ba7c8d32fe
+~~some other uuid2~~
++2007-10-27T19:08:58.211Z|0|anonymous root ~~9 b8da2fee-2323-48d4-8617-7b6bda993baf
+~~some uuid~~
++2007-10-27T19:35:25.727Z|0|pdf root ~~9 9cfaedab-8d1f-4002-a40a-a5db6fe75f25
+~~some uuid~~
++2007-10-27T19:35:31.014Z|0|pdf root ~~9 5a647492-1f78-412d-9efe-8261cbecebaa
+~~some uuid~~
++2007-10-27T18:04:04.991Z|0|anonymous root test foo
++2007-10-27T18:05:21.409Z|0|anonymous root test foo
++2007-10-27T18:05:22.891Z|0|anonymous root test foo
++2007-10-27T18:10:46.867Z|0|anonymous root test foo2
++2007-10-27T18:17:21.245Z|0|anonymous root test ~~16
+~~Whole wild world~~
++2007-10-27T18:10:58.239Z|0|anonymous root test2 bar
++2007-10-27T18:13:19.588Z|0|anonymous root test2 bar2
++2007-10-27T19:14:43.848Z|0|anonymous root test2 860a835f-2598-478a-9b66-ad67ef3bd47e
++2007-10-28T01:28:49.897Z|0|pdf root test2 object1
++2007-10-29T15:52:40.229Z|0|pdf root test2 object2
++2007-11-11T23:57:49.769Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b ~~9 ~~5712
+~~rdf links~~
+~~        <DT><H3 ADD_DATE="1194811441" LAST_MODIFIED="1194825175" ID="rdf:#$l0Auq3">Pointrel</H3>
+        <DL><p>
+            <DT><A HREF="http://en.wikipedia.org/wiki/Resource_Description_Framework" ADD_DATE="1194811463" LAST_CHARSET="UTF-8" ID="rdf:#$m0Auq3">Resource Description Framework - Wikipedia, the free encyclopedia</A>
+            <DT><A HREF="http://www.google.com/search?hl=en&q=triple+stores&btnG=Google+Search" ADD_DATE="1194811469" LAST_CHARSET="UTF-8" ID="rdf:#$n0Auq3">triple stores - Google Search</A>
+            <DT><A HREF="http://esw.w3.org/topic/LargeTripleStores" ADD_DATE="1194811473" LAST_VISIT="1194814979" LAST_CHARSET="UTF-8" ID="rdf:#$o0Auq3">LargeTripleStores - ESW Wiki</A>
+            <DT><A HREF="http://www.google.com/search?hl=en&q=rdf&btnG=Google+Search" ADD_DATE="1194811479" LAST_CHARSET="UTF-8" ID="rdf:#$p0Auq3">rdf - Google Search</A>
+            <DT><A HREF="http://www.w3.org/RDF/" ADD_DATE="1194811483" LAST_CHARSET="UTF-8" ID="rdf:#$q0Auq3">Resource Description Framework (RDF) / W3C Semantic Web Activity</A>
+            <DT><A HREF="http://simile.mit.edu/reports/stores/" ADD_DATE="1194811501" LAST_CHARSET="UTF-8" ID="rdf:#$r0Auq3">Scalability Report on Triple Store Applications</A>
+            <DT><A HREF="http://simile.mit.edu/wiki/Longwell" ADD_DATE="1194811553" LAST_CHARSET="UTF-8" ID="rdf:#$s0Auq3">Longwell - SIMILE</A>
+            <DT><A HREF="http://www.kowari.org/" ADD_DATE="1194811668" LAST_CHARSET="ISO-8859-1" ID="rdf:#$t0Auq3">kowari</A>
+            <DT><A HREF="http://kowari.org/overview.html" ADD_DATE="1194811762" LAST_CHARSET="ISO-8859-1" ID="rdf:#$u0Auq3">Kowari Overview</A>
+            <DT><A HREF="http://redfoot.net/" ADD_DATE="1194811779" LAST_CHARSET="UTF-8" ID="rdf:#$v0Auq3">Redfoot: Hypercoding System</A>
+            <DT><A HREF="http://www.ideaspace.net/users/wkearney/archives/entries/000431.html" ADD_DATE="1194811814" LAST_CHARSET="UTF-8" ID="rdf:#$w0Auq3">Bill Kearney: Documents vs triple stores?</A>
+            <DT><A HREF="http://www.ideaspace.net/users/wkearney/archives/entries/000431.html" ADD_DATE="1194814414" LAST_CHARSET="UTF-8" ID="rdf:#$x0Auq3">Bill Kearney: Documents vs triple stores?</A>
+            <DT><A HREF="http://www.w3.org/2001/05/rdf-ds/DataStore" ADD_DATE="1194814653" LAST_CHARSET="ISO-8859-1" ID="rdf:#$W0Auq3">Data Stores ...</A>
+            <DT><A HREF="http://www.openrdf.org/" ADD_DATE="1194814696" LAST_VISIT="1194815100" ICON="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAACAAAAAgIAAgAAAAIAAgACAgAAAwMDAAICAgAAAe/8AAP8AAAD//wD/AAAA/wD/AP//AAD///8A///////////5/5+f/5+Zn/n/n5//n5//+Zmfn5+fmZ/5/5+Z+Z+f//+Z/5//n5mf//////////+ZmZmZmZmZmZ//mf/5//mZmZn5+ZmZn5mZ/5n/+Z/5mZ+ZmfmZ+ZmZmf/5//mf/5mZmZmZmZmZmQAAAAAAAAAAAAAAAAAAAAAAAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD/////////////" LAST_CHARSET="UTF-8" ID="rdf:#$X0Auq3">openRDF.org: Home</A>
+            <DT><A HREF="http://www.ldodds.com/blog/archives/000172.html" ADD_DATE="1194814882" LAST_CHARSET="UTF-8" ID="rdf:#$Y0Auq3">Lost Boy: Views in Triple Stores</A>
+            <DT><A HREF="http://wiki.apache.org/lucene-hadoop/Hbase/RDF#head-ffb792e2294d5701518e950e296e46300bb38c8e" ADD_DATE="1194814953" LAST_CHARSET="UTF-8" ID="rdf:#$Z0Auq3">RDF</A>
+            <DT><A HREF="http://esw.w3.org/topic/TripleStoreScalability" ADD_DATE="1194814983" LAST_CHARSET="UTF-8" ID="rdf:#$.0Auq3">TripleStoreScalability - ESW Wiki</A>
+            <DT><A HREF="http://esw.w3.org/topic/LargeTripleStores" ADD_DATE="1194814988" LAST_CHARSET="UTF-8" ID="rdf:#$+0Auq3">LargeTripleStores - ESW Wiki</A>
+            <DT><A HREF="http://www.openrdf.org/" ADD_DATE="1194815105" LAST_CHARSET="UTF-8" ID="rdf:#$01Auq3">openRDF.org: Home</A>
+            <DT><A HREF="http://www.openrdf.org/about.jsp" ADD_DATE="1194815695" LAST_CHARSET="UTF-8" ID="rdf:#$11Auq3">openRDF.org: About</A>
+            <DT><A HREF="http://www.nlnet.nl/" ADD_DATE="1194815747" LAST_CHARSET="UTF-8" ID="rdf:#$21Auq3">NLnet; Welcome to NLnet Foundation</A>
+            <DT><A HREF="http://www.w3schools.com/rdf/rdf_owl.asp" ADD_DATE="1194823266" LAST_VISIT="1194823358" ICON="data:image/x-icon;base64,AAABAAEAEBAQAAAAAAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAACAAACAgAAAAACAAIAAgAAAgIAAwMDAAICAgAD/AAAAAP8AAP//AAAAAP8A/wD/AAD//wD///8AAAAAAAAAAAAACIiIiIgAAAAAAAAAAIcAAMzMzMzAhwAMzMzMzMyHAAzP/Mz/zIcADM/8zP/MhwAMzMzMzMyHAAzP/Mz/zIcADM/8zP/MhwAMzMzMzMyHAAzP/Mz/zIcADM/8zP/MhwAMzMzMzMyAAADMzMzMwAAAAAAAAAAAAAD//wAA4A8AAMADAADAAwAAgAMAAIADAACAAwAAgAMAAIADAACAAwAAgAMAAIADAACAAwAAgAcAAMAfAAD//wAA" LAST_CHARSET="ISO-8859-1" ID="rdf:#$31Auq3">Introduction to OWL</A>
+            <DT><A HREF="http://gbiv.com/protocols/uri/rev-2002/rfc2396bis.html#canonical-form" ADD_DATE="1194823574" LAST_CHARSET="ISO-8859-1" ID="rdf:#$41Auq3">Uniform Resource Identifier (URI): Generic Syntax</A>
+            <DT><A HREF="http://www.wwwcoder.com/Weblogs/tabid/283/EntryID/842/Default.aspx" ADD_DATE="1194823687" LAST_CHARSET="UTF-8" ID="rdf:#$51Auq3">Community - Attributes vs. Properties</A>
+            <DT><A HREF="http://www.gnu.org/software/emacs/elisp/html_node/Association-Lists.html" ADD_DATE="1194824901" LAST_CHARSET="ISO-8859-1" ID="rdf:#$61Auq3">Association Lists - GNU Emacs Lisp Reference Manual</A>
+            <DT><A HREF="http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node153.html" ADD_DATE="1194824979" LAST_CHARSET="UTF-8" ID="rdf:#$71Auq3">15.6. Association Lists</A>
+            <DT><A HREF="http://en.wikipedia.org/wiki/Multimap" ADD_DATE="1194825175" LAST_CHARSET="UTF-8" ID="rdf:#$81Auq3">Multimap (data structure) - Wikipedia, the free encyclopedia</A>~~
++2007-11-11T23:58:59.305Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b ~~17 ~~3572
+~~association lists~~
+~~http://www.gnu.org/software/emacs/elisp/html_node/Association-Lists.html
+
+
+
+5.8 Association Lists
+
+An association list, or alist for short, records a mapping from keys to values. It is a list of cons cells called associations: the car of each cons cell is the key, and the cdr is the associated value.1
+
+Here is an example of an alist. The key pine is associated with the value cones; the key oak is associated with acorns; and the key maple is associated with seeds.
+
+     ((pine . cones)
+      (oak . acorns)
+      (maple . seeds))
+
+Both the values and the keys in an alist may be any Lisp objects. For example, in the following alist, the symbol a is associated with the number 1, and the string "b" is associated with the list (2 3), which is the cdr of the alist element:
+
+     ((a . 1) ("b" 2 3))
+
+Sometimes it is better to design an alist to store the associated value in the car of the cdr of the element. Here is an example of such an alist:
+
+     ((rose red) (lily white) (buttercup yellow))
+
+Here we regard red as the value associated with rose. One advantage of this kind of alist is that you can store other related informationeven a list of other itemsin the cdr of the cdr. One disadvantage is that you cannot use rassq (see below) to find the element containing a given value. When neither of these considerations is important, the choice is a matter of taste, as long as you are consistent about it for any given alist.
+
+The same alist shown above could be regarded as having the associated value in the cdr of the element; the value associated with rose would be the list (red).
+
+Association lists are often used to record information that you might otherwise keep on a stack, since new associations may be added easily to the front of the list. When searching an association list for an association with a given key, the first one found is returned, if there is more than one.
+
+In Emacs Lisp, it is not an error if an element of an association list is not a cons cell. The alist search functions simply ignore such elements. Many other versions of Lisp signal errors in such cases.
+
+Note that property lists are similar to association lists in several respects. A property list behaves like an association list in which each key can occur only once. See Property Lists, for a comparison of property lists and association lists. 
+
+===========
+
+http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node153.html
+
+15.6. Association Lists
+
+An association list, or a-list, is a data structure used very frequently in Lisp. An a-list is a list of pairs (conses); each pair is an association. The car of a pair is called the key, and the cdr is called the datum.
+
+An advantage of the a-list representation is that an a-list can be incrementally augmented simply by adding new entries to the front. Moreover, because the searching function assoc searches the a-list in order, new entries can ``shadow'' old entries. If an a-list is viewed as a mapping from keys to data, then the mapping can be not only augmented but also altered in a non-destructive manner by adding new entries to the front of the a-list.
+
+Sometimes an a-list represents a bijective mapping, and it is desirable to retrieve a key given a datum. For this purpose, the ``reverse'' searching function rassoc is provided. Other variants of a-list searches can be constructed using the function find or member.
+
+It is permissible to let nil be an element of an a-list in place of a pair. Such an element is not considered to be a pair but is simply passed over when the a-list is searched by assoc.
+
+
+
+~~
++2007-11-11T23:59:38.641Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b multimaps ~~1410
+~~http://en.wikipedia.org/wiki/Multimap
+
+Multimap (data structure)
+From Wikipedia, the free encyclopedia
+(Redirected from Multimap)
+Jump to: navigation, search
+For the provider of online mapping services, see Multimap.com.
+
+A multimap is a generalization of a map or associative array abstract data type in which more than one value may be associated with and returned for a given key. Both map and multimap are particular cases of containers (see for example C++ Standard Template Library containers). Often the multimap is implemented as a map with lists or sets as the map values.
+
+[edit] Examples
+
+    * In a student enrollment system, where students may be enrolled in multiple classes simultaneously, there might be an association for each enrollment of a student in a course, where the key is the student ID and the value is the course ID. If a student is enrolled in three courses, there will be three associations containing the same key.
+    * The index of a book may report any number of references for a given index term, and thus may be coded as a multimap from index terms to any number of reference locations.
+
+[edit] Language Support
+
+C++'s Standard Template Library provides the "multimap" container for the sorted multimap using a self-balancing binary search tree [1], and SGI's STL extension provides the "hash_multimap" container, which implements a multimap using a hash table [2].
+
+[edit] ~~
++2007-11-12T00:00:30.418Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b ~~17 ~~4927
+~~association lists~~
+~~http://www.gnu.org/software/emacs/elisp/html_node/Association-Lists.html
+
+5.8 Association Lists
+
+An association list, or alist for short, records a mapping from keys to values. It is a list of cons cells called associations: the car of each cons cell is the key, and the cdr is the associated value.1
+
+Here is an example of an alist. The key pine is associated with the value cones; the key oak is associated with acorns; and the key maple is associated with seeds.
+
+     ((pine . cones)
+      (oak . acorns)
+      (maple . seeds))
+
+Both the values and the keys in an alist may be any Lisp objects. For example, in the following alist, the symbol a is associated with the number 1, and the string "b" is associated with the list (2 3), which is the cdr of the alist element:
+
+     ((a . 1) ("b" 2 3))
+
+Sometimes it is better to design an alist to store the associated value in the car of the cdr of the element. Here is an example of such an alist:
+
+     ((rose red) (lily white) (buttercup yellow))
+
+Here we regard red as the value associated with rose. One advantage of this kind of alist is that you can store other related informationeven a list of other itemsin the cdr of the cdr. One disadvantage is that you cannot use rassq (see below) to find the element containing a given value. When neither of these considerations is important, the choice is a matter of taste, as long as you are consistent about it for any given alist.
+
+The same alist shown above could be regarded as having the associated value in the cdr of the element; the value associated with rose would be the list (red).
+
+Association lists are often used to record information that you might otherwise keep on a stack, since new associations may be added easily to the front of the list. When searching an association list for an association with a given key, the first one found is returned, if there is more than one.
+
+In Emacs Lisp, it is not an error if an element of an association list is not a cons cell. The alist search functions simply ignore such elements. Many other versions of Lisp signal errors in such cases.
+
+Note that property lists are similar to association lists in several respects. A property list behaves like an association list in which each key can occur only once. See Property Lists, for a comparison of property lists and association lists. 
+
+===========
+
+http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node153.html
+
+15.6. Association Lists
+
+An association list, or a-list, is a data structure used very frequently in Lisp. An a-list is a list of pairs (conses); each pair is an association. The car of a pair is called the key, and the cdr is called the datum.
+
+An advantage of the a-list representation is that an a-list can be incrementally augmented simply by adding new entries to the front. Moreover, because the searching function assoc searches the a-list in order, new entries can ``shadow'' old entries. If an a-list is viewed as a mapping from keys to data, then the mapping can be not only augmented but also altered in a non-destructive manner by adding new entries to the front of the a-list.
+
+Sometimes an a-list represents a bijective mapping, and it is desirable to retrieve a key given a datum. For this purpose, the ``reverse'' searching function rassoc is provided. Other variants of a-list searches can be constructed using the function find or member.
+
+It is permissible to let nil be an element of an a-list in place of a pair. Such an element is not considered to be a pair but is simply passed over when the a-list is searched by assoc.
+
+
+=================
+http://www.gnu.org/software/emacs/elisp/html_node/Property-Lists.html#Property-Lists
+
+8.4 Property Lists
+
+A property list (plist for short) is a list of paired elements stored in the property list cell of a symbol. Each of the pairs associates a property name (usually a symbol) with a property or value. Property lists are generally used to record information about a symbol, such as its documentation as a variable, the name of the file where it was defined, or perhaps even the grammatical class of the symbol (representing a word) in a language-understanding system.
+
+Character positions in a string or buffer can also have property lists. See Text Properties.
+
+The property names and values in a property list can be any Lisp objects, but the names are usually symbols. Property list functions compare the property names using eq. Here is an example of a property list, found on the symbol progn when the compiler is loaded:
+
+     (lisp-indent-function 0 byte-compile byte-compile-progn)
+
+Here lisp-indent-function and byte-compile are property names, and the other two elements are the corresponding values.
+
+    * Plists and Alists: Comparison of the advantages of property lists and association lists.
+    * Symbol Plists: Functions to access symbols' property lists.
+    * Other Plists: Accessing property lists stored elsewhere. 
+~~
++2007-11-12T00:03:10.347Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b entity-attribute-value ~~3833
+~~http://en.wikipedia.org/wiki/Entity-Attribute-Value_model
+
+Entity-Attribute-Value model (EAV), also known as "Object-Attribute-Value Model" and "Open Schema" is a data model that is used in circumstances where the number of attributes (properties, parameters) that can be used to describe a thing (an "entity" or "object") is potentially very vast, but the number that will actually apply to a given entity is relatively modest.
+
+...
+
+History of EAV database systems
+
+    * EAV, as a general-purpose means of knowledge representation, originated with the "association lists" (attribute-value pairs) of the language LISP.
+    * The first medical record systems to employ EAV were Stead and Hammond's TMR (The Medical Record) system and the HELP clinical Data Repository (CDR) created by Homer Warner's group at LDS Hospital, Salt Lake City, Utah. Both these systems, developed in the 1970s, preceded E.F. Codd's relational database model, though HELP was much later ported to a relational architecture and commercialized by the 3M corporation.
+    * A group at the Columbia-Presbyterian Medical Center (Friedman et al) were the first to use a relational database engine as the foundation of an EAV system.
+    * The TrialDB clinical study data management system of Nadkarni et al was the first to use multiple EAV tables, one for each DBMS data type.
+    * The EAV/CR framework, designed primarily by Luis Marenco and Prakash Nadkarni, overlaid the principles of object-orientation on to EAV; it also built on Slezak's object table approach.
+
+Both TrialDB and EAV/CR are open-source, though they are built on Microsoft technologies rather than Java/Linux.
+
+..
+Metadata helps perform the sleight-of-hand that lets users interact with the system in terms of the logical schema rather than the physical: the software continually consults the metadata for various operations such as data presentation, interactive validation, bulk data extraction and ad hoc query. The metadata can actually be used to customize the behavior of the system
+
+EAV systems trade off simplicity in the physical and logical structure of the data for complexity in their metadata, which, among other things, plays the role that database constraints and referential integrity do in standard database designs. Such a tradeoff is generally worthwhile, because in the typical mixed schema of production systems, the data in conventional relational tables can also benefit from functionality such as automatic interface generation. The structure of the metadata is complex enough that it comprises its own subschema within the database: various foreign keys in the data tables refer to tables within this subschema. This subschema is standard-relational, with features such as constraints and referential integrity being used to the hilt.
+
+Metadata is so important to the operation of a production EAV system that in its absence, one is essentially trying to drive a car without brakes or a steering wheel. The correctness of the metadata contents, in terms of the intended system behavior, is critical enough that the contents constitute the system's "crown jewels". The task of ensuring correctness means that, when creating an EAV system, considerable design efforts must go into building user interfaces for metadata editing that can be used by people on the team who know the problem domain (e.g., clinical medicine) but are not necessarily programmers. (Historically, one of the main reasons why the pre-relational TMR system failed to be adopted at sites other than its home institution was that all metadata was stored in a single file with a non-intuitive structure. Customizing system behavior by altering the contents of this file, without causing the system to break, was such a delicate task that the system's authors only trusted themselves to do it.)
+
+~~
++2007-11-12T00:06:34.636Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b entity-attribute-value ~~9201
+~~http://en.wikipedia.org/wiki/Entity-Attribute-Value_model
+
+Entity-Attribute-Value model (EAV), also known as "Object-Attribute-Value Model" and "Open Schema" is a data model that is used in circumstances where the number of attributes (properties, parameters) that can be used to describe a thing (an "entity" or "object") is potentially very vast, but the number that will actually apply to a given entity is relatively modest.
+
+...
+
+History of EAV database systems
+
+    * EAV, as a general-purpose means of knowledge representation, originated with the "association lists" (attribute-value pairs) of the language LISP.
+    * The first medical record systems to employ EAV were Stead and Hammond's TMR (The Medical Record) system and the HELP clinical Data Repository (CDR) created by Homer Warner's group at LDS Hospital, Salt Lake City, Utah. Both these systems, developed in the 1970s, preceded E.F. Codd's relational database model, though HELP was much later ported to a relational architecture and commercialized by the 3M corporation.
+    * A group at the Columbia-Presbyterian Medical Center (Friedman et al) were the first to use a relational database engine as the foundation of an EAV system.
+    * The TrialDB clinical study data management system of Nadkarni et al was the first to use multiple EAV tables, one for each DBMS data type.
+    * The EAV/CR framework, designed primarily by Luis Marenco and Prakash Nadkarni, overlaid the principles of object-orientation on to EAV; it also built on Slezak's object table approach.
+
+Both TrialDB and EAV/CR are open-source, though they are built on Microsoft technologies rather than Java/Linux.
+
+..
+Metadata helps perform the sleight-of-hand that lets users interact with the system in terms of the logical schema rather than the physical: the software continually consults the metadata for various operations such as data presentation, interactive validation, bulk data extraction and ad hoc query. The metadata can actually be used to customize the behavior of the system
+
+EAV systems trade off simplicity in the physical and logical structure of the data for complexity in their metadata, which, among other things, plays the role that database constraints and referential integrity do in standard database designs. Such a tradeoff is generally worthwhile, because in the typical mixed schema of production systems, the data in conventional relational tables can also benefit from functionality such as automatic interface generation. The structure of the metadata is complex enough that it comprises its own subschema within the database: various foreign keys in the data tables refer to tables within this subschema. This subschema is standard-relational, with features such as constraints and referential integrity being used to the hilt.
+
+Metadata is so important to the operation of a production EAV system that in its absence, one is essentially trying to drive a car without brakes or a steering wheel. The correctness of the metadata contents, in terms of the intended system behavior, is critical enough that the contents constitute the system's "crown jewels". The task of ensuring correctness means that, when creating an EAV system, considerable design efforts must go into building user interfaces for metadata editing that can be used by people on the team who know the problem domain (e.g., clinical medicine) but are not necessarily programmers. (Historically, one of the main reasons why the pre-relational TMR system failed to be adopted at sites other than its home institution was that all metadata was stored in a single file with a non-intuitive structure. Customizing system behavior by altering the contents of this file, without causing the system to break, was such a delicate task that the system's authors only trusted themselves to do it.)
+
+....
+
+Downsides
+
+This section was contributed by David Fass in response to the previous version of this Wikipedia entry: the points emphasized are legitimate, but it should be noted that (apart from the inefficient query drawback) they apply only when metadata is not used. As emphasized above, not using metadata for an EAV system is generally suicidal in a production system.
+
+    * Flabbiness. Flexibility is great, but there is a point where you no longer have any structure. Typically, you can no longer rely on built-in database features such as referential integrity. To guarantee that a column takes only values within an acceptable range, you have to code integrity checks inside your application. It doesn't help to make it maintainable.
+    * Inefficient queries. Where you would execute a simple query returning 20 columns from a single table, you end up with 20 self-joins, one for each column. It makes for illegible code and dreadful performance as volumes grow (scalability is very bad). This downside can be mitigated by use of any PIVOT extensions in a database's query language or through the use of complex expressions--one per "column"--that allow the table to be joined to only once by ignoring the values seen for columns the expression is not targeted for.
+    * Designer laziness. Adding attributes on the fly is acceptable for a prototype. But if you don't really know what data you want to work with in the first place, you are begging for trouble.
+    * Circumvention of built-in domain integrity checks and referential integrity checks for the subset of your data that is modeled as EAV.
+    * Much of the machinery of modern relational databases will be unavailable and will need to be recreated by the development team: System tables; graphical query tools; fine grained data security (particularly that provided by views); incremental backup and restore; exception handling; partitioned tables and clustered indexes, are all non-existent.
+    * Other standard tools are much less useful: cursors in database functions do not return rows of user data since the data must first be pivoted; user defined functions become large and are harder to develop and debug; Ad-hoc SQL queries of the data take much longer to write and the necessary joins are hard to specify so that data does not get missed. (Attempting to write queries, or functions that use SQL, against EAV data entirely by hand is almost always a recipe for disaster because of the risk of error, which grows proportionately with the number of columns you wish to retrieve; to protect your sanity, you will almost certainly have to build some kind of code generator, which is not a trivial process.)
+    * The format is also not well supported by the DBMS internals. The standard query optimizers for SQL do not handle the EAV formatted data well and much time will have to be spent on performance tuning for an acceptable production quality application. Having a few huge tables and many small ones can frustrate the DBMS code that tries to optimize disk layout. Indexes are large and (if the data is being actively updated) will take up a significantly larger amount of cache than the many smaller indexes that would exist on multiple relational tables. Microsoft SQL Server 2005 provides some query support for generic tables, but, as indicated in the previous section, this is relatively minimal.
+
+Having stated all of the above caveats, it should be noted that certain products marketed by vendors primarily known for their DBMS offerings use EAV for a subset of their schemas. An example is Oracle Clinical, a package for the management of clinical trials data; the clinical data component is stored in an EAV structure where all values are coerced to the varchar2 data type. So we have a situation where even a major DBMS vendor has decided that, despite all the difficulties and hazards of working with EAV, some circumstances make its use unavoidable.
+
+But the following caveats still remain:
+
+    * Unless you have a team of hard-core developers who know all about metadata and can build robust N-tier systems where a significant proportion of the business logic is stored in the middle tier rather than the database tier, stick to regular relational tables as much as possible.
+
+    * Think before you model. Just because one subset of the data that you plan to store in your schema fits the EAV paradigm doesn't mean that all of it will. In fact, the odds are that most data will be a mismatch for EAV.
+
+    * If you are going to perform multiple operations on a set of EAV data, e.g., statistical analyses or data-mining queries, it is often most efficient to simply pivot the entire set of data for a specified set of attributes of interest into tables in a separate standard-relational schema, index these tables as needed, and then perform the remainder of the operations on this schema. This way, you bite the inefficiency bullet just once rather than repeatedly, and you do not need to struggle with the challenge of composing EAV-style queries by hand.
+
+The vast majority of production schemas that utilize EAV are in fact "mixed" schemas. (This makes the challenge of constructing a general-purpose query generator even trickier, because your metadata must record which tables are old-fashioned, and which are EAV, so that the appropriate SQL is generated.)~~
++2007-11-12T00:10:16.221Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b entity-attribute-value ~~11388
+~~http://en.wikipedia.org/wiki/Entity-Attribute-Value_model
+
+Entity-Attribute-Value model (EAV), also known as "Object-Attribute-Value Model" and "Open Schema" is a data model that is used in circumstances where the number of attributes (properties, parameters) that can be used to describe a thing (an "entity" or "object") is potentially very vast, but the number that will actually apply to a given entity is relatively modest.
+
+...
+
+History of EAV database systems
+
+    * EAV, as a general-purpose means of knowledge representation, originated with the "association lists" (attribute-value pairs) of the language LISP.
+    * The first medical record systems to employ EAV were Stead and Hammond's TMR (The Medical Record) system and the HELP clinical Data Repository (CDR) created by Homer Warner's group at LDS Hospital, Salt Lake City, Utah. Both these systems, developed in the 1970s, preceded E.F. Codd's relational database model, though HELP was much later ported to a relational architecture and commercialized by the 3M corporation.
+    * A group at the Columbia-Presbyterian Medical Center (Friedman et al) were the first to use a relational database engine as the foundation of an EAV system.
+    * The TrialDB clinical study data management system of Nadkarni et al was the first to use multiple EAV tables, one for each DBMS data type.
+    * The EAV/CR framework, designed primarily by Luis Marenco and Prakash Nadkarni, overlaid the principles of object-orientation on to EAV; it also built on Slezak's object table approach.
+
+Both TrialDB and EAV/CR are open-source, though they are built on Microsoft technologies rather than Java/Linux.
+
+..
+Metadata helps perform the sleight-of-hand that lets users interact with the system in terms of the logical schema rather than the physical: the software continually consults the metadata for various operations such as data presentation, interactive validation, bulk data extraction and ad hoc query. The metadata can actually be used to customize the behavior of the system
+
+EAV systems trade off simplicity in the physical and logical structure of the data for complexity in their metadata, which, among other things, plays the role that database constraints and referential integrity do in standard database designs. Such a tradeoff is generally worthwhile, because in the typical mixed schema of production systems, the data in conventional relational tables can also benefit from functionality such as automatic interface generation. The structure of the metadata is complex enough that it comprises its own subschema within the database: various foreign keys in the data tables refer to tables within this subschema. This subschema is standard-relational, with features such as constraints and referential integrity being used to the hilt.
+
+Metadata is so important to the operation of a production EAV system that in its absence, one is essentially trying to drive a car without brakes or a steering wheel. The correctness of the metadata contents, in terms of the intended system behavior, is critical enough that the contents constitute the system's "crown jewels". The task of ensuring correctness means that, when creating an EAV system, considerable design efforts must go into building user interfaces for metadata editing that can be used by people on the team who know the problem domain (e.g., clinical medicine) but are not necessarily programmers. (Historically, one of the main reasons why the pre-relational TMR system failed to be adopted at sites other than its home institution was that all metadata was stored in a single file with a non-intuitive structure. Customizing system behavior by altering the contents of this file, without causing the system to break, was such a delicate task that the system's authors only trusted themselves to do it.)
+
+....
+
+Downsides
+
+This section was contributed by David Fass in response to the previous version of this Wikipedia entry: the points emphasized are legitimate, but it should be noted that (apart from the inefficient query drawback) they apply only when metadata is not used. As emphasized above, not using metadata for an EAV system is generally suicidal in a production system.
+
+    * Flabbiness. Flexibility is great, but there is a point where you no longer have any structure. Typically, you can no longer rely on built-in database features such as referential integrity. To guarantee that a column takes only values within an acceptable range, you have to code integrity checks inside your application. It doesn't help to make it maintainable.
+    * Inefficient queries. Where you would execute a simple query returning 20 columns from a single table, you end up with 20 self-joins, one for each column. It makes for illegible code and dreadful performance as volumes grow (scalability is very bad). This downside can be mitigated by use of any PIVOT extensions in a database's query language or through the use of complex expressions--one per "column"--that allow the table to be joined to only once by ignoring the values seen for columns the expression is not targeted for.
+    * Designer laziness. Adding attributes on the fly is acceptable for a prototype. But if you don't really know what data you want to work with in the first place, you are begging for trouble.
+    * Circumvention of built-in domain integrity checks and referential integrity checks for the subset of your data that is modeled as EAV.
+    * Much of the machinery of modern relational databases will be unavailable and will need to be recreated by the development team: System tables; graphical query tools; fine grained data security (particularly that provided by views); incremental backup and restore; exception handling; partitioned tables and clustered indexes, are all non-existent.
+    * Other standard tools are much less useful: cursors in database functions do not return rows of user data since the data must first be pivoted; user defined functions become large and are harder to develop and debug; Ad-hoc SQL queries of the data take much longer to write and the necessary joins are hard to specify so that data does not get missed. (Attempting to write queries, or functions that use SQL, against EAV data entirely by hand is almost always a recipe for disaster because of the risk of error, which grows proportionately with the number of columns you wish to retrieve; to protect your sanity, you will almost certainly have to build some kind of code generator, which is not a trivial process.)
+    * The format is also not well supported by the DBMS internals. The standard query optimizers for SQL do not handle the EAV formatted data well and much time will have to be spent on performance tuning for an acceptable production quality application. Having a few huge tables and many small ones can frustrate the DBMS code that tries to optimize disk layout. Indexes are large and (if the data is being actively updated) will take up a significantly larger amount of cache than the many smaller indexes that would exist on multiple relational tables. Microsoft SQL Server 2005 provides some query support for generic tables, but, as indicated in the previous section, this is relatively minimal.
+
+Having stated all of the above caveats, it should be noted that certain products marketed by vendors primarily known for their DBMS offerings use EAV for a subset of their schemas. An example is Oracle Clinical, a package for the management of clinical trials data; the clinical data component is stored in an EAV structure where all values are coerced to the varchar2 data type. So we have a situation where even a major DBMS vendor has decided that, despite all the difficulties and hazards of working with EAV, some circumstances make its use unavoidable.
+
+But the following caveats still remain:
+
+    * Unless you have a team of hard-core developers who know all about metadata and can build robust N-tier systems where a significant proportion of the business logic is stored in the middle tier rather than the database tier, stick to regular relational tables as much as possible.
+
+    * Think before you model. Just because one subset of the data that you plan to store in your schema fits the EAV paradigm doesn't mean that all of it will. In fact, the odds are that most data will be a mismatch for EAV.
+
+    * If you are going to perform multiple operations on a set of EAV data, e.g., statistical analyses or data-mining queries, it is often most efficient to simply pivot the entire set of data for a specified set of attributes of interest into tables in a separate standard-relational schema, index these tables as needed, and then perform the remainder of the operations on this schema. This way, you bite the inefficiency bullet just once rather than repeatedly, and you do not need to struggle with the challenge of composing EAV-style queries by hand.
+
+The vast majority of production schemas that utilize EAV are in fact "mixed" schemas. (This makes the challenge of constructing a general-purpose query generator even trickier, because your metadata must record which tables are old-fashioned, and which are EAV, so that the appropriate SQL is generated.)
+
+===========
+
+http://ycmi.med.yale.edu/nadkarni/eav_CR_contents.htm
+
+History
+
+    * EAV itself was first used in artificial intelligence applications in the form of LISP association lists .
+    * EAV structure is the basis of Web cookies , the Microsoft Windows Registry, and various tagged data interchange formats such as ASN.1. XML can be regarded as a "tagged" form of EAV (with "open-attribute" and "close-attribute" tags, which supports nesting of attributes to an arbitrary degree.
+    * Important components of Electronic Patient Record Systems (EPRSs), notably the pioneering HELP system and the Columbia-Presbyterian Clinical Data Repository .
+
+Definition
+
+EAV = Entity-Attribute-Value.   EAV/CR = EAV with Classes and Relationships
+
+Conceptually, a table with three columns:
+
+    * Entity/Object ID
+    * Attribute/Parameter
+    * the Value for the attribute.
+
+The table has one row for each Attribute-Value pair.
+
+In reality, we prefer to segregate values based on data type, so as to support indexing and let the database perform type validation checks where possible. So there are separate EAV tables for strings, real and integer numbers, dates, long text and Binary large objects (BLOBS).
+
+====
+
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=61391
+
+Entity-attribute-value (EAV) representation is a means of organizing highly heterogeneous data using a relatively simple physical database schema. EAV representation is widely used in the medical domain, most notably in the storage of data related to clinical patient records. Its potential strengths suggest its use in other biomedical areas, in particular research databases whose schemas are complex as well as constantly changing to reflect evolving knowledge in rapidly advancing scientific domains. When deployed for such purposes, the basic EAV representation needs to be augmented significantly to handle the modeling of complex objects (classes) as well as to manage interobject relationships. The authors refer to their modification of the basic EAV paradigm as EAV/CR (EAV with classes and relationships). They describe EAV/CR representation with examples from two biomedical databases that use it.~~
++2007-11-12T00:12:08.591Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b ~~11 ~~1671
+~~eav vs. rdf~~
+~~http://osdir.com/ml/web.rdf/2003-09/msg00140.html
+
+Rob --
+
+
+It's interesting to note that, while EAV uses Entity-Attribute-Value triples, the Resource Description Framework (RDF) for the Semantic Web also uses triples.
+
+In RDF, the triples are called Subject-Predicate-Object, but the underlying idea seems to be the same.
+
+That idea is, of course, to do a bit of second order reasoning using first order tools, such as SQL.
+
+                        Cheers,  -- Adrian
+
+References:  EAV  http://ycmi.med.yale.edu/trialdb/
+                   RDF  http://www.w3.org/RDF/
+
+
+
+
+                           INTERNET BUSINESS LOGIC
+
+  Business Rule Applications in English, Using Your Oracle Database
+
+                            www.reengineeringllc.com
+
+Adrian Walker
+Reengineering LLC
+PO Box 1412
+Bristol
+CT 06011-1412 USA
+
+Phone: USA 860 583 9677
+Cell:    USA  860 830 2085
+Fax:    USA  860 314 1029
+
+
+
+
+At 07:33 AM 9/18/03 -0700, you wrote:
+
+    Hi elamin,
+
+    go to the NIH's PubMed site (http://www.ncbi.nlm.nih.gov/entrez/query.fcgi)
+    and do a search on "Entity attribute value".  you should find many (ca. 16)
+    citations.  Then you can go to your local academic medical institution's
+    library (assuming you have one close) and photcopy the articles of interest.
+
+    Much of the work in the biomedical domain is being done by prakash nadkarni
+    and his group at yale university.  here's a link to the Trialdb project
+    which is an application of the EAV model that may be helpful:
+
+    http://ycmi.med.yale.edu/trialdb/
+
+    I **love** to here what others in this have to say about this model and the
+    challenges it addresses....
+
+    HTH
+
+    rob
+
+
+
+
+
+~~
++2007-11-12T11:17:42.236Z|0|pdf uuid://752c12ff-1125-4839-bb5e-60d67f092e4b ideas ~-~4920
+~-~Ideas when workign on pointrel record layout.
+
+"""
+Record format
++timestamp|sequence|userReference object1 color red
++timestamp|sequence|userReference object1 ~~9 red [has an item with a new line, size is an optimization hint]
+~~has
+color~~
++~~ object1 color red [user reference with a space]
+~~timestamp|sequence|user Reference~~
++timestamp|sequence|userReference object1 color red text/utf-8 [with content type hint]
++timestamp|sequence|userReference object1 color red content-type:utf-8 [with embedded metadata squished]
++timestamp|sequence|userReference object1 color red ~~ [with multiple embedded metadata; repeats form a list?]
+content-type: utf-8
+source: http://www.pointrel.org
+uncertainty: high
++timestamp|sequence|userReference referencetimestamp|sequence|userReference content-type utf-8 [non-embeded metadata]
++timestamp|sequence|userReference deletedtimestamp|sequence|userReference pointrel:deleted true [deletion]
++timestamp|sequence|userReference deletedtimestamp|sequence|userReference pointrel:deleted false [undeletion]
+"""
+
+# wondering -- if include metadata -- two alternative ways to tag -- ugly.
+# also, if inclyude, then can't reference metadata statements, to have meta-meta-data etc.
+# but really want to handle common place of tagging the content-type
+
+#####################
+
+Going down the embedded metadata road feels like a bad idea -- 
+leading to confusion as to where it is specified, and then how it is itself tagged
+
+The real problem direclty faced is annotating content with the expected type it has
+And that you probably knwo this when you create the triple
+but later users otherwise have to guess at it
+
+So, back to idea of spaces?  Then if you have PNG data, you put it in a PNG space.
+Makes find a little more cumbersome? And adds? But nice to have things tagged?
+
+Experiment:
++timestamp|sequence|userReference uuid object1 relation color text/plain red
++timestamp|sequence|userReference pointrel.org:uuid object1 pointrel.org:relation color pointrel.org:text/plain red
++timestamp|sequence|userReference uuid object1 relation ~~9 colorname red [has an item with a new line, size is an optimization hint]
+~~has
+color~~
+
+defaults for add?  uuid relation text/utf-8
+when do a find -- if not type specifies, matches the first of any type?
+
+Should this still work?
+    record1 = r.add("object1", "color", "red1")
+    print r.find("object1", "color")
+    
+What of displaying information in browser? No place for type? hints?
+
+Realizing, could do structured data in a value -- just have a "structured" space where the contents is parsed (perhaps as XML?)
+
+====================================
+
+Nest day, not thinking that much benefit for adding the type to a and b slots.
+In theory might have case where object is on left side. Or might have special kinds of relaitons. 
+But relations could be prefixed with a colon, as in pointrel:myrelation
+And, as in RDF, the left hand side is almost always just a uuid reference of some sort, again, prefixable.
+But having a content-type for the c slot seems really useful.
+And has no big impact on implementation fo lookup.
+No changed for find (might have option to return both, or just use record version). 
+Add might change a bit, but only with an optional param.
+But, metadata still might be useful if generalized....
+Except breaks rest of the paradigm.
+
+
++timestamp|sequence|userReference object1 color red pointrel:text/utf-8 [with content type hint]
++timestamp|sequence|userReference object1 color ~~ mime:image/gif [with content type hint]
+~~lots of gif stuff~~
+
+
+So, is the hint optional?
+
+
+================
+
+RDF: 
+subject predicate  object
+URI     property   value
+
+object  attribute   value
+object  relation    content
+
+
+        self.subjectReference = a
+        self.relationName = b
+        self.content = c
+        
+dictionary key value valueType
+
+pointer relation value valueType
+
+context key value valueType
+
+item key value valueType
+
+item key value valueTypeHint
+
+item key value
+
+item property value
+
+item key value valueType
+
+reference key value
+
+point rel value valueType
+
+point rel value valueType
+
+poin trel value valueType
+
+item key value valueType
+
+uuid key value valueType
+
+uri property value
+
+resource property value
+
+resource attribute value
+
+resource field value
+
+resource key state
+
+resource key value
+
+http://64.233.169.104/search?q=cache:ffM9-bclacMJ:www.ei.sanken.osaka-u.ac.jp/main/documents/OnProperty.pdf
+
+resource attribute value valueType
+
+http://en.wikipedia.org/wiki/Attribute-value_pair
+http://en.wikipedia.org/wiki/Entity-Attribute-Value_model
+
+entity attribute value valueType
+
+object key datum
+
+http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node153.html
+entity key datum
+
+(Don't want to use "object atribute" as RDF uses it as value...)
+
+http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=61391
+Organization of Heterogeneous Scientific Data Using the EAV/CR Representation
+
+entity attribute value
+
+
+~-~
