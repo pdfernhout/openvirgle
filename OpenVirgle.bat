@@ -1,0 +1,1 @@
+java -cp jython.jar;jgl.jar org.python.util.jython tests.py
