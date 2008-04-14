@@ -393,7 +393,7 @@ class Repository:
         finally:
             f.close()
 
-    def add(self, entity, attribute, valueBytes, valueType, userReference=None, timestamp=None, openFile=None):
+    def add(self, entity, attribute, valueBytes, valueType=DefaultValueType, userReference=None, timestamp=None, openFile=None):
         newRecord = None
         if openFile:
             f = openFile
@@ -577,9 +577,9 @@ def test():
     print "done"
     print r.find("object1", "has color")
     print r.find("object1", "%has-color")
-    print r.allAttributes("object1")
-    print r.allValueRecords("object1", "has color")
-    print [(record.valueBytes, record.timestamp) for record in r.allValueRecords("object1", "has color")]
+    print r.allAttributesForEntity("object1")
+    print r.findAllRecordsForEntity("object1", "has color")
+    print [(record.valueBytes, record.timestamp) for record in r.findAllRecordsForEntityAttribute("object1", "has color")]
     print "done"
     
 if __name__ == "__main__":
