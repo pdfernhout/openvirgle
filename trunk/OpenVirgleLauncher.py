@@ -33,9 +33,14 @@ class MyWindow:
         self.box.add(self.button2)
 
         self.button3 = JButton("Button Three -- opens a new launcher window")
-        self.button3.name = "button2"
+        self.button3.name = "button3"
         self.button3.addActionListener(DynamicActionListener("launchNewWindow"))
         self.box.add(self.button3)
+        
+        self.button4 = JButton("Button Four -- opens InterfacePrototype001")
+        self.button4.name = "button4"
+        self.button4.addActionListener(DynamicActionListener("openInterfacePrototype001"))
+        self.box.add(self.button4)
 
     def button1_actionPerformed(self, event):
         print "button1pressed", event
@@ -58,6 +63,11 @@ class MyWindow:
         
     def launchNewWindow(self, event):
         window = MyWindow()
+        window.frame.visible = 1
+        
+    def openInterfacePrototype001(self, event):
+        import InterfacePrototype001
+        window = InterfacePrototype001.InterfacePrototype001()
         window.frame.visible = 1
         
 def test():

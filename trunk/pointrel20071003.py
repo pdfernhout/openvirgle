@@ -5,7 +5,7 @@
 # later, maybe should not load big strings for valueBytes -- leave them on disk and load as needed
 # perhaps add in license field for text, and for relationship (maybe separated by slashes) -- use metadata?
 
-# print "pointrel20071002 starting"
+# print "pointrel20071003 starting"
 
 """
 Record format [optional] {comment}
