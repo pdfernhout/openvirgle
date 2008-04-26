@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<P:archive xmlns:P="http://www.pointrel.org/Pointrel20030812/NS/" version="20030812.1" archiveID="unique://shema.pair.com:8:49890590723901818">
+	<P:transaction>
+		<P:triad
+			r="1536L"
+			s="test"
+			a="a"
+			b="b"
+			c="c"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="1688L"
+			s="test"
+			a="a"
+			b="b"
+			c="c"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="1960L"
+			s="test"
+			a="a"
+			b="b"
+			c="c1"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="2232L"
+			s="test"
+			a="a"
+			b="b"
+			c="c2"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="2760L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "hello world"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="3208L"
+			s="test"
+			a="1234"
+			b="code"
+			c='# Required header that tells the browser how to render the text.
+print "Content-Type: text/plain\n\n"
+
+# Print a simple message to the display window.
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="3656L"
+			s="test"
+			a="1234"
+			b="code"
+			c='# Required header that tells the browser how to render the text.
+print "Content-Type: text/plain\n\n"
+
+# Print a simple message to the display window.
+print "Hello, World!\n"
+'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="3992L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+print "Hello, World!\n"
+print
+'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="4272L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="4600L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="4936L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content-Type:"
+print " text/plain\n\n"
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="5272L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content"
+print " text/plain\n\n"
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="5424L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content"
+print " text/plain\n\n"
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="5712L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="6016L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content"
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="6168L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content"
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="6472L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Hello, World!\n"
+print "Content"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="6912L"
+			s="test"
+			a="1234"
+			b="code"
+			c='# Required header that tells the browser how to render the text.
+print "Content-Type: text/plain\n\n"
+# Print a simple message to the display window.
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="7352L"
+			s="test"
+			a="1234"
+			b="code"
+			c='# Required header that tells the browser how to render the text.
+print "Content-Type: text/html\n\n"
+# Print a simple message to the display window.
+print "Hello, World!\n"'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="8104L"
+			s="test"
+			a="1234"
+			b="code"
+			c='# Required header that tells the browser how to render the text.
+print "Content-Type: text/html\n\n"
+# Print a simple message to the display window.
+text = """&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;%s&lt;/title&gt;
+        &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    %s
+    &lt;/body&gt;
+&lt;/html&gt;
+"""
+
+#print "Hello, World!\n"
+print text % ("OSCOMAK", "&lt;a href="http://www.kurtz-fernhout.com/oscomak/SSI_Fernhout2001_web.html"&gt;here&lt;/a&gt;")
+'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="8864L"
+			s="test"
+			a="1234"
+			b="code"
+			c='# Required header that tells the browser how to render the text.
+print "Content-Type: text/html\n\n"
+# Print a simple message to the display window.
+text = """&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;%s&lt;/title&gt;
+        &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    %s
+    &lt;/body&gt;
+&lt;/html&gt;
+"""
+
+#print "Hello, World!\n"
+print text % ("OSCOMAK", """&lt;a href="http://www.kurtz-fernhout.com/oscomak/SSI_Fernhout2001_web.html"&gt;here&lt;/a&gt;""")
+'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="9544L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content-Type: text/html\n\n"
+
+text = """
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;%s&lt;/title&gt;
+        &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    %s
+    &lt;/body&gt;
+&lt;/html&gt;
+"""
+
+#print "Hello, World!\n"
+
+title = "OSCOMAK"
+
+body = """&lt;a href="http://www.kurtz-fernhout.com/oscomak/SSI_Fernhout2001_web.html"&gt;here&lt;/a&gt;"""
+
+print text % (title, body)
+'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="10944L"
+			types="bbbh"
+			s="test"
+			a="1234"
+			b="code"
+			c="7072696e742022436f6e74656e742d547970653a20746578742f68746d6c5c6e5c6e220d0a0d0a74657874203d202222220d0a3c68746d6c3e0d0a202020203c686561643e0d0a20202020202020203c7469746c653e25733c2f7469746c653e0d0a20202020202020203c6d65746120687474702d65717569763d22436f6e74656e742d547970652220636f6e74656e743d22746578742f68746d6c3b20636861727365743d5554462d38223e0d0a202020203c2f686561643e0d0a202020203c626f64793e0d0a2020202025730d0a202020203c2f626f64793e0d0a3c2f68746d6c3e0d0a2222220d0a0d0a237072696e74202248656c6c6f2c20576f726c64215c6e220d0a0d0a7469746c65203d20224f53434f4d414b220d0a0d0a626f6479203d202222220d0a57652077696c6c20646576656c6f7020736f66747761726520746f6f6c7320746f20656e61626c6520746865206372656174696f6e0d0a6f662074686973206b6e6f776c65646765207265706f7369746f72793a20746f20636f6c6c6563742c206f7267616e697a652c20616e642070726573656e7420696e666f726d6174696f6e0d0a696e206120776179207468617420656e636f75726167657320636f6c6c61626f726174696f6e20616e642070726f766964657320696d6d6564696174652062656e656669742e0d0a4d616e75666163747572696e67209372656369706573942077696c6c20666f726d2074686520636f726520656c656d656e7473206f6620746865207265706f7369746f72792e0d0a57652077696c6c20616c736f207365656420746865207265706f7369746f72792c20696e7465726163742077697468207061727469636970616e74732c20616e64206f7665727365650d0a7468652065766f6c7574696f6e206f6620746865207265706f7369746f72792e200d0a3c703e0d0a596f752063616e207265616420612070617065722077652070726573656e746564206f6e20746869732070726f6a65637420696e207468652050726f63656564696e6773206f662074686520546869727465656e7468205353492f5072696e6365746f6e20436f6e666572656e6365206f6e205370616365204d616e75666163747572696e67200d0a4d617920372d392c20323030312c2077686963682077652068617665206d61646520617661696c61626c65206f6e20746865207765623a0d0a3c6120687265663d22687474703a2f2f7777772e6b7572747a2d6665726e686f75742e636f6d2f6f73636f6d616b2f5353495f4665726e686f7574323030315f7765622e68746d6c223e686572653c2f613e2e2054686520736c6964657320666f72207468652070726573656e746174696f6e20617265203c6120687265663d22687474703a2f2f7777772e6b7572747a2d6665726e686f75742e636f6d2f6f73636f6d616b2f4b465265766965775061706572466f72535349436f6e666572656e6365323030312e706466223e686572653c2f613e2e0d0a2222220d0a0d0a7072696e742074657874202520287469746c652c20626f6479290d0a"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="12344L"
+			s="test"
+			a="1234"
+			b="code"
+			c='print "Content-Type: text/html\n\n"
+
+text = """
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;%s&lt;/title&gt;
+        &lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    %s
+    &lt;/body&gt;
+&lt;/html&gt;
+"""
+
+#print "Hello, World!\n"
+
+title = "OSCOMAK"
+
+body = """
+We will develop software tools to enable the creation
+of this knowledge repository: to collect, organize, and present information
+in a way that encourages collaboration and provides immediate benefit.
+Manufacturing "recipes" will form the core elements of the repository.
+We will also seed the repository, interact with participants, and oversee
+the evolution of the repository. 
+&lt;p&gt;
+You can read a paper we presented on this project in the Proceedings of the Thirteenth SSI/Princeton Conference on Space Manufacturing 
+May 7-9, 2001, which we have made available on the web:
+&lt;a href="http://www.kurtz-fernhout.com/oscomak/SSI_Fernhout2001_web.html"&gt;here&lt;/a&gt;. The slides for the presentation are &lt;a href="http://www.kurtz-fernhout.com/oscomak/KFReviewPaperForSSIConference2001.pdf"&gt;here&lt;/a&gt;.
+"""
+
+print text % (title, body)
+'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="13560L"
+			types="bbbh"
+			s="test"
+			a="12345"
+			b="code"
+			c="7072696e742022436f6e74656e742d547970653a20746578742f68746d6c5c6e5c6e220d0a0d0a74657874203d202222220d0a3c68746d6c3e0d0a202020203c686561643e0d0a20202020202020203c7469746c653e25733c2f7469746c653e0d0a20202020202020203c6d65746120687474702d65717569763d22436f6e74656e742d547970652220636f6e74656e743d22746578742f68746d6c3b20636861727365743d5554462d38223e0d0a202020203c2f686561643e0d0a202020203c626f64793e0d0a2020202025730d0a202020203c2f626f64793e0d0a3c2f68746d6c3e0d0a2222220d0a0d0a237072696e74202248656c6c6f2c20576f726c64215c6e220d0a0d0a7469746c65203d20224f53434f4d414b220d0a0d0a626f6479203d202222220d0a546865204f73636f6d616b2070726f6a6563742077696c6c20666f73746572206120636f6d6d756e69747920696e207768696368206d616e7920696e746572657374656420696e646976696475616c730d0a77696c6c20636f6e7472696275746520746f20746865206372656174696f6e206f66206120646973747269627574656420676c6f62616c207265706f7369746f7279206f66206d616e75666163747572696e670d0a6b6e6f776c656467652061626f757420706173742c2070726573656e7420616e64206675747572652070726f6365737365732c206d6174657269616c732c20616e642070726f64756374732e0d0a3c703e0d0a5468652070726f6a65637492732073686f72742d7465726d2062656e65666974732077696c6c20696e636c756465200d0a3c756c3e0d0a3c6c693e746563686e6f6c6f677920656475636174696f6e2c0d0a3c6c693e686973746f726963616c20656475636174696f6e2c0d0a3c6c693e636f6c6c61626f726174696f6e2c0d0a3c6c693e7375737461696e61626c6520746563686e6f6c6f677920646576656c6f706d656e742c0d0a3c6c693e7075626c696320736369656e6365206c697465726163792c20616e64200d0a3c6c693e6b6e6f776c656467652064656d6f63726174697a6174696f6e2e200d0a3c2f756c3e0d0a2222220d0a0d0a7072696e742074657874202520287469746c652c20626f6479290d0a"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="14656L"
+			s="test"
+			a="12345"
+			b="code"
+			c="print &quot;Content-Type: text/html\n\n&quot;
+
+text = &quot;&quot;&quot;
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;title&gt;%s&lt;/title&gt;
+        &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+    %s
+    &lt;/body&gt;
+&lt;/html&gt;
+&quot;&quot;&quot;
+
+#print &quot;Hello, World!\n&quot;
+
+title = &quot;OSCOMAK&quot;
+
+body = &quot;&quot;&quot;
+The Oscomak project will foster a community in which many interested individuals
+will contribute to the creation of a distributed global repository of manufacturing
+knowledge about past, present and future processes, materials, and products.
+&lt;p&gt;
+The project's short-term benefits will include 
+&lt;ul&gt;
+&lt;li&gt;technology education,
+&lt;li&gt;historical education,
+&lt;li&gt;collaboration,
+&lt;li&gt;sustainable technology development,
+&lt;li&gt;public science literacy, and 
+&lt;li&gt;knowledge democratization. 
+&lt;/ul&gt;
+&quot;&quot;&quot;
+
+print text % (title, body)
+"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="15216L"
+			s="test"
+			a="print"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+
+from pointrel20030812 import *
+matches = Pointrel_allMatches(WILD, WILD, WILD, WILD)
+
+for match in matches:
+
+    print match'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="15656L"
+			s="test"
+			a="print"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+
+from pointrel20030812 import *
+matches = Pointrel_allMatches(WILD, WILD, WILD, WILD)
+
+for match in matches:
+
+    print match.value'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="16096L"
+			s="test"
+			a="print"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+
+from pointrel20030812 import *
+matches = Pointrel_allMatches(WILD, WILD, WILD, WILD)
+
+for match in matches:
+
+    print match[3]'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="16648L"
+			s="test"
+			a="print"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+
+from pointrel20030812 import *
+matches = Pointrel_allMatches(WILD, WILD, WILD, WILD)
+
+for match in matches:
+    print "====================================="
+    print match[0]
+    print match[1]   
+
+    print match[2]
+    print match[3]'
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="17168L"
+			s="test"
+			a="zirconia"
+			b="chemical_formula"
+			c="ZrO"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="17568L"
+			s="test"
+			a="electrolytes"
+			b="types"
+			c="zirconia"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="17840L"
+			s="test"
+			a="electrolytes"
+			b="types"
+			c="ceria"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="18112L"
+			s="test"
+			a="ceria"
+			b="chemical_formula"
+			c="CeO"
+		/>
+	</P:transaction>
+	<P:transaction>
+		<P:triad
+			r="19776L"
+			s="test"
+			a="test_query_example"
+			b="code"
+			c='print "Content-Type: text/plain\n\n"
+
+from pointrel20030812 import *
+electrolytes = Pointrel_allMatches("test", "electrolytes", "types", WILD)
+
+print "Which types of electrolytes have the formula CeO?"
+
+for electrolyte in electrolytes:
+    print electrolyte, Pointrel_lastMatch("test", electrolyte, "chemical_formula", WILD) == "CeO"
+
+# http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/159974
+"""
+Sometimes it is needed to do set-like operations on database query results, or simple lists, without the burden of implementing a class for sets, or importing a separate module. List comprehensions are quick way to do this, here is a collection of them. Although most of them are banal, let us just collect them in one place. Also, they are not the fastest, nor the most elegant, but the quickest to drop into your code if you need a proof of concept.
+"""
+
+shortList = [electrolyte for electrolyte in electrolytes if Pointrel_lastMatch("test", electrolyte, "chemical_formula", WILD) == "CeO"]
+print "shortList", shortList
+
+print "======== Funky self-referential stuff to print the code follows :-) =============="
+
+theCode = Pointrel_lastMatch("test", "test_query_example", "code", WILD)
+print "the code for this page is:"
+print theCode'
+		/>
+	</P:transaction>
+</P:archive>
