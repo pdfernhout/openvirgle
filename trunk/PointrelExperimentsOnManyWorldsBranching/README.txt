@@ -1,4 +1,4 @@
-Copyright 2006[2007 Paul D. Fernhout
+Copyright 2006-2007 Paul D. Fernhout
 These three subfolders are released under the GPL version 3 or later.
   http://www.gnu.org/licenses/gpl.html
   

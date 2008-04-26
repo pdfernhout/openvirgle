@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule index.html - [L]
+RewriteRule wiki/(.*)$ cgi-bin/oscomak.py?name=$1 [L]
