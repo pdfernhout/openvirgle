@@ -1,0 +1,5 @@
+What started as an April Fool joke by Google for 2008 is now a real and genuine effort to create ideas for ways in which humankind can live sustainably in space using free and open source technology. This project is a place for all space enthusiasts to cooperate on simulations of space habitats and a related knowledgebase and tools for the Java Virtual Machine (JVM) using Jython and other JVM languages. Rather than argue whether L5 or Mars or the asteroids or the Moon or the rings of Saturn should be humankind's first space settlement, we could be asking what is common between those efforts so that that groundwork can be shared.
+
+The proposed first design/simulation is a utility space pod. The "shirtsleeve" utility space pod is probably common to all space efforts. See: http://code.google.com/p/openvirgle/wiki/SpacePod
+
+Note: Ongoing work has moved to the more general Open Manufacturing project: http://groups.google.com/group/openmanufacturing
