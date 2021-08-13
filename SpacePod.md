@@ -43,7 +43,7 @@ The space pod may need to provide these functionalities:
 
 ## Lunch in Pod Bay Three: ##
 
-![https://github.com/pdfernhout/openvirgle/blob/wiki/lunch_in_pod_bay_three.jpg](http://openvirgle.googlecode.com/svn/wiki/lunch_in_pod_bay_three.jpg)
+![https://github.com/pdfernhout/openvirgle/blob/wiki/lunch_in_pod_bay_three.jpg](https://github.com/pdfernhout/openvirgle/blob/wiki/lunch_in_pod_bay_three.jpg)
 
 Space Pod has mining attachment currently; alternate arm is beside it, ready for changeover after lunch.
 
